@@ -1,0 +1,14 @@
+node_modules/
+flow/
+.idea/
+settings
+.cache/*
+!.cache/.gitkeep
+/npm-debug.log
+/coverage/
+package-lock.json
+/.cache
+Dockerfile
+docker
+
+/dist/
